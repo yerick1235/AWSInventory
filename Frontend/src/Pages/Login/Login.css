@@ -1,0 +1,45 @@
+.login-card {
+  position: absolute;
+  width: 50%;
+  height: 60%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  width: 60vh;
+  text-align: center;
+  backdrop-filter: blur(2px);
+}
+
+.login-content {
+  background-color: #c8c8c82d;
+  border-radius: 10px;
+  padding: 0vh 5vh 3vh 5vh;
+}
+
+.register-content {
+  text-align: center;
+  background-color: #232323;
+  border-radius: 10px;
+  margin-top: 2vh;
+  padding: 2vh;
+}
+
+.logos {
+    position: absolute;
+    top: 88%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.login-esfera{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.text-input{
+    background: rgba(255, 255, 255, 0.468);
+    font-weight: bold;
+}
