@@ -1,0 +1,10 @@
+.registServer-card{
+    margin: 2vh;
+    color: #e3e3e3;
+}
+
+.registServer-form{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 5vh;
+}

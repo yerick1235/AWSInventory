@@ -1,0 +1,14 @@
+.workspace{
+    background-color: #1616166c;
+    border: 2px solid #2a2a2c;
+    margin: 15vh 5vh 0 5vh;
+    width: auto;
+    display: flex;
+    align-items: flex-start;
+    border-radius: 2vh;
+    height: auto;
+    min-height: calc(100% - 20vh);
+    position: absolute;
+    right: 0%;
+    left: 0%;
+}
